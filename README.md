@@ -2,5 +2,5 @@
 
 This repo contains my programming portfolio.
 
-To view a live demo, [click here](https://ryanfitzgerald.github.io/devportfolio/).
+To view a live demo, [click here](https://basiratkhan.github.io/Portfolio/).
 
